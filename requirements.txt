@@ -1,0 +1,6 @@
+twarc
+tqdm
+requests
+pathlib
+json
+gzip
